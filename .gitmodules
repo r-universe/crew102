@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rapidraker"]
+	path = rapidraker
+	url = https://github.com/crew102/rapidraker
+	shallow = true
+	registered = true
+[submodule "slowraker"]
+	path = slowraker
+	url = https://github.com/crew102/slowraker
+	shallow = true
+	registered = true
