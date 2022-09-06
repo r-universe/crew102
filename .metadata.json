@@ -1,5 +1,9 @@
 [
   {
+    "package": "hippie",
+    "oncran": true
+  },
+  {
     "package": "rapidraker",
     "oncran": true
   },

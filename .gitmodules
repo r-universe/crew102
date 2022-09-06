@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hippie"]
+	path = hippie
+	url = https://github.com/crew102/hippie
+	shallow = true
+	registered = true
 [submodule "rapidraker"]
 	path = rapidraker
 	url = https://github.com/crew102/rapidraker
