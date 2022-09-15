@@ -10,5 +10,9 @@
   {
     "package": "slowraker",
     "oncran": true
+  },
+  {
+    "package": "wosr",
+    "oncran": true
   }
 ]
