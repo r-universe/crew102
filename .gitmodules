@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "wosr"]
-	path = wosr
-	url = https://github.com/crew102/wosr
-	shallow = true
-	registered = true
 [submodule "hippie"]
 	path = hippie
 	url = https://github.com/crew102/hippie
+	shallow = true
+	registered = true
+[submodule "rapidraker"]
+	path = rapidraker
+	url = https://github.com/crew102/rapidraker
 	shallow = true
 	registered = true
 [submodule "slowraker"]
@@ -18,8 +18,8 @@
 	url = https://github.com/crew102/slowraker
 	shallow = true
 	registered = true
-[submodule "rapidraker"]
-	path = rapidraker
-	url = https://github.com/crew102/rapidraker
+[submodule "wosr"]
+	path = wosr
+	url = https://github.com/crew102/wosr
 	shallow = true
 	registered = true
