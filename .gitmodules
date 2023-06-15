@@ -18,8 +18,3 @@
 	url = https://github.com/crew102/slowraker
 	shallow = true
 	registered = true
-[submodule "wosr"]
-	path = wosr
-	url = https://github.com/crew102/wosr
-	shallow = true
-	registered = true
